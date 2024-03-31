@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Porject 1
+## Fraud Detection
 
-Write details of the Project you want to highlight
+Fraud detection is projct to detect Fraud in Income tax submissions. Its uspposed to help the Tax department in predict the Tax evasions
 
 ## Project 2
 
